@@ -1,8 +1,8 @@
 # Individual Report: Lab 3 - Chatbot vs ReAct Agent
 
 - **Student Name**: Nguyễn Hữu Huy
-- **Student ID**: 
-- **Date**: 2026-0A4-06
+- **Student ID**: 2A202600166
+- **Date**: 2026-04-06
 
 ---
 
